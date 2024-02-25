@@ -54,5 +54,9 @@ We used the following datasets during our experiments:
 The datasets are available for download in the ```dataset``` folder of our repository.
 
 
+### Embeddings
+We have provided a link to the embeddings and relevant data. However, if you wish to create your own embeddings, the code is available in the `temp` folder, named `embeddings.ipynb`. We utilized `all-MiniLM-L6-v2` for sentence encoding, but users may change it according to their requirements.
 
+### Model Used for Entity Linking and Relation Extraction:
+```contexta.py``` provides all the details about the models and tools used for entity linking for DBpedia and Wikidata, respectively. This is also optional, and users may use the tools of their preference.
 
