@@ -25,7 +25,7 @@ pip install -r requirements.txt
 
 #### Requirments 
 
-We have provided the sentence embeddings and other relevant information, but users can create their own embeddings using the notebook in the temp folder. To obtain the context examples (embeddings and other information), download the necessary files to the temp directory using the following command:
+We have provided the sentence embeddings and other relevant information, but users can create their own embeddings using the notebook in the temp folder. To obtain the context examples (embeddings and other information), download the necessary files to the ```temp``` directory using the following command:
 ```
 wget https://files.dice-research.org/datasets/COT-SPARQLGEN/dbpedia_examples.parquet https://files.dice-research.org/datasets/COT-SPARQLGEN/embeddings_dbpedia.pkl https://files.dice-research.org/datasets/COT-SPARQLGEN/embeddings_wikidata.pkl
 https://files.dice-research.org/datasets/COT-SPARQLGEN/wikidata_examples.parquet
@@ -51,7 +51,7 @@ We used the following datasets during our experiments:
 | QALD-10  | QALD-9  |
 | LcQuad2.0  | Vquanda  |
 
-The datasets are available for download in the datasets folder of our repository.
+The datasets are available for download in the ```dataset``` folder of our repository.
 
 
 
