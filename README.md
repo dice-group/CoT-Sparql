@@ -27,8 +27,7 @@ pip install -r requirements.txt
 
 We have provided the sentence embeddings and other relevant information, but users can create their own embeddings using the notebook in the temp folder. To obtain the context examples (embeddings and other information), download the necessary files to the ```temp``` directory using the following command:
 ```
-wget https://files.dice-research.org/datasets/COT-SPARQLGEN/dbpedia_examples.parquet https://files.dice-research.org/datasets/COT-SPARQLGEN/embeddings_dbpedia.pkl https://files.dice-research.org/datasets/COT-SPARQLGEN/embeddings_wikidata.pkl
-https://files.dice-research.org/datasets/COT-SPARQLGEN/wikidata_examples.parquet
+wget https://anon.to/?https://files.dice-research.org/datasets/COT-SPARQLGEN/dbpedia_examples.parquet https://anon.to/?https://files.dice-research.org/datasets/COT-SPARQLGEN/embeddings_dbpedia.pkl https://anon.to/?https://files.dice-research.org/datasets/COT-SPARQLGEN/embeddings_wikidata.pkl https://anon.to/?https://files.dice-research.org/datasets/COT-SPARQLGEN/wikidata_examples.parquet
 ```
 #### Run 
 You are now ready to run the system with the following command:
